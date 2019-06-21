@@ -1,0 +1,5 @@
+# credits
+
+Navigation: https://startbootstrap.com/template-overviews/bare 
+Startpage: https://github.com/austinkilduff/startpage
+Dock: https://codepen.io/fivera/pen/sdpkn
